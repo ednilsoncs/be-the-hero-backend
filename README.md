@@ -34,7 +34,7 @@ ONG's (Organizações não governamentais) que precisam de ajuda.</p>
 ### `yarn start`
 
 Para executar o back-end em desenvoldimento.<br>
-porta usada: localhost:3333
+Porta usada:3333
 
 ### `yarn test`
 
