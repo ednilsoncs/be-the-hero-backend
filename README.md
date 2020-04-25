@@ -29,6 +29,8 @@ ONG's (Organizações não governamentais) que precisam de ajuda.</p>
   </tr>
 <table/>  
 
+[confira mais detalhes consultando o arquivo com as requisições exportado pelo insomnia](https://github.com/EdnilsonCS/be-the-hero-backend/blob/master/requisicoes.json)
+
 ## :hammer: Scripts
 
 ### `yarn start`
